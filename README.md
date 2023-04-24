@@ -8,7 +8,7 @@ Please note that this is just a fun project, and the results are not meant to be
 
 **Data**
 
-The data used for this simulation is sourced from Opinion polling for the 2023 Turkish presidential election page on Wikipedia.
+The data used for this simulation is sourced from Opinion polling for the 2023 Turkish presidential election page on Wikipedia. (https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Turkish_presidential_election)
 
 **Running the Simulation**
 
