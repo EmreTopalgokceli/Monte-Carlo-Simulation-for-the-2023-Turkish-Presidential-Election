@@ -20,6 +20,8 @@ To run the simulation, simply run the simulation.py file in a Python environment
 
 The simulation results show that one candidate has the highest chance of winning the election, with a probability of 60%. However, as mentioned earlier, this is just a fun project and the actual outcome of the election may be different!
 
+https://github.com/EmreTopalgokceli/Monte-Carlo-Simulation-for-the-2023-Turkish-Presidential-Election/blob/main/Monte%20Carlo_2.png?raw=true
+
 **Conclusion**
 
 I hope you find this Monte Carlo simulation for the 2023 Turkish Presidential Election to be an interesting and fun project. If you have any questions or comments, feel free to reach out to us.
