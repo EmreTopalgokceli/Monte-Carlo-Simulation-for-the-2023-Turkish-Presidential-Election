@@ -24,6 +24,6 @@ The simulation results show that one candidate has the highest chance of winning
 
 **Conclusion**
 
-I hope you find this Monte Carlo simulation for the 2023 Turkish Presidential Election to be an interesting and fun project. If you have any questions or comments, feel free to reach out to us.
+I hope you find this Monte Carlo simulation for the 2023 Turkish Presidential Election to be an interesting and fun project. If you have any questions or comments, feel free to reach out to me.
 
 Thank you for checking out my project!
